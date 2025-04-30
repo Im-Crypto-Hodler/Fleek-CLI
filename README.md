@@ -18,7 +18,11 @@
 ✅ Success!
 
 ---
+# **Create Account First**
 
+👉Join here: https://fleek.xyz/?ref=imcryptohodler
+
+---
 # **Pre-Requirements 🛠**
 
 # **Install node.js & npm**
@@ -159,7 +163,9 @@ Done!⚕️✅
 
 If U have any issue then open a issue on this repo or Dm me on X
 
-THNK YOU! 👨🏻‍💻 Happy Coding💗
+credit: Mayank Gupta
+
+💗THNK YOU!💗 👨🏻‍💻 💗Happy Coding💗
 
 
 
